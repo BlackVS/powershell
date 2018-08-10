@@ -1,2 +1,2 @@
 # powershell
-PowerShell scripts
+Some useful PowerShell scripts writen to simplify sysadmin life ^)

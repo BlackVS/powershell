@@ -1,0 +1,1 @@
+Get-WmiObject -Namespace root\virtualization -class msvm_computersystem | select elementname, operationalstatus, processid, name| ft -auto
